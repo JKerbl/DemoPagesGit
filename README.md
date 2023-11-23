@@ -5,4 +5,5 @@
   <li>Or hosting you simple website on github.</li>
 </ul>
 
-<img href="https://www.htl-steyr.ac.at/images/htl/htl-logo-ws-transparent-100.png" alt="HTL Steyr">
+![HTL Steyr Logo](https://www.htl-steyr.ac.at/images/htl/htl-logo-ws-transparent-100.png)
+
